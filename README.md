@@ -36,7 +36,7 @@
 > ![그림10](https://user-images.githubusercontent.com/76691954/133967695-0d84473a-3fa0-4f20-9978-d4c8ceb9bb61.png)
 
 ### 🥦 flow chart
-> <br>             ![그림11](https://user-images.githubusercontent.com/76691954/133968081-27735762-a62b-4c2a-a6ee-d2c11d343921.jpg)
+> <br>  ![그림11](https://user-images.githubusercontent.com/76691954/133968081-27735762-a62b-4c2a-a6ee-d2c11d343921.jpg)
 
 ## 🥦 화면 동작
 #### 1. 회원가입
